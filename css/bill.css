@@ -1,0 +1,6 @@
+.bill{ border:1px solid grey; box-shadow:2px 2px 3px gray; }
+.invoice{ border:0px solid grey; }
+.ctitle{ border:1px solid grey; padding-top:15px; }
+.cright{ border:1px solid grey; padding-top:15px; }
+.trow{ border-bottom:1px solid grey; }
+#signspace{ padding:20px; }

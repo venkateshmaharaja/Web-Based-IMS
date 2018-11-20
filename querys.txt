@@ -1,0 +1,1 @@
+SELECT (SELECT SUM(qty) from stock where p_id=1 AND entry_type="purchase")-(SELECT SUM(qty) from stock where p_id=1 AND entry_type="sales")
